@@ -1,1 +1,2 @@
+This line was changed by the browser.
 This line is changed by the computer.
